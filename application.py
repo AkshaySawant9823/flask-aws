@@ -6,5 +6,5 @@ application = Flask(__name__)
 def homepage():
     return "Hello, Akshay..!!!"
 
-if __name__=="__main__":
-    application.run(debug=True)
+# if __name__=="__main__":
+#     application.run(debug=True)
